@@ -1,0 +1,8 @@
+To compile:
+
+javac -cp "AbsoluteLayout.jar" *.java
+
+
+
+To run:
+java -cp "AbsoluteLayout.jar"; driver
